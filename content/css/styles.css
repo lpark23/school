@@ -1,0 +1,36 @@
+
+
+ul#messages li {
+    display: block;
+    width: 80%;
+    margin: 5px auto;
+    text-align: center;
+    padding: 2px;
+    border-radius: 2px;
+}
+
+ul#messages li.info {
+    background: #fb9416;
+}
+
+ul#messages li.error {
+    background: #9e0813;
+    color: white;
+}
+
+.validation-error {
+    vertical-align: top;
+    margin-left: 10px;
+    color: #f6191e;
+}
+
+#logged-in-info {
+    float: right;
+    margin-top: 18px;
+}
+
+#logged-in-info form {
+    display: inline-block;
+    margin-right: 10px;
+}
+

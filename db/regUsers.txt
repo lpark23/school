@@ -1,0 +1,17 @@
+Users
+		username	password	position
+------------------------------------------------
+		admin		admin 		administrator
+------------------------------------------------
+		teachers	teachers	teacher
+		ivan		ivan		...
+------------------------------------------------
+		students	students	student
+		student1	student1	...
+		student2	student2	student
+		********	********	*******
+		student8	student8	student
+------------------------------------------------
+		parents		parents		parent
+		parent1		parent1		...
+		parent2		parent2		...
